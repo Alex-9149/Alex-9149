@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700"/>
+  <img src="https://media1.tenor.com/m/5uwSjSIb_y4AAAAC/yuta-yuta-okkotsu.gif" width="700"/>
 </div>
 <!--
 **Alex-9149/Alex-9149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
