@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700"/>
+</div>
 <!--
 **Alex-9149/Alex-9149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
